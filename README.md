@@ -22,15 +22,6 @@
 
 ---
 
-## 📚 Official Documentation & Links
-
-* **[Chrome Web Store Developer Docs](https://developer.chrome.com/docs/extensions)**: Learn how Chromium-based extensions are structured and published.
-* **[Firefox Extension Workshop](https://extensionworkshop.com/)**: Official guidelines for building and submitting WebExtensions to Mozilla Add-ons (AMO).
-* **[Opera Add-ons Developer Hub](https://addons.opera.com/developer/)**: Portal for publishing extensions to the Opera ecosystem.
-* **[Tampermonkey Documentation](https://www.tampermonkey.net/documentation.php)**: Guide for creating custom userscripts.
-
----
-
 ## 🚀 Installation & Usage
 
 ### Browser Extensions (Chrome, Edge, Opera, Firefox)
@@ -38,3 +29,15 @@
 2. **Manual Installation (Developer Mode):**
    * **Chrome / Edge / Opera / Chromium:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file.
    * **Firefox:** Go to `about:debugging#/runtime` and click **Load Temporary Add-on...** by selecting your `manifest.json`.
+
+---
+
+## ❓ FAQ / About the Project
+
+### Why was this created by UMR-Chan?
+
+Because it was really needed, brother.
+
+### Why is it only built for V2 right now?
+
+because I forgot to add the links for version 1 (I'll update it tomorrow)
