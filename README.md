@@ -37,33 +37,10 @@
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
-### 🌐 Browser Extensions (Chrome, Edge, Opera, Firefox)
+### Browser Extensions (Chrome, Edge, Opera, Firefox)
 1. Download the latest `.zip` release from the [Releases](../../releases) page or install it directly from your browser's store using the badges above.
 2. **Manual Installation (Developer Mode):**
    * **Chrome / Edge / Opera:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file.
    * **Firefox:** Go to `about:debugging#/runtime` and click **Load Temporary Add-on...** by selecting your `manifest.json`.
-
-### 🐒 Tampermonkey Userscript Alternative
-If you prefer running a userscript instead of an extension:
-1. Make sure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed in your browser.
-2. Create a new script in Tampermonkey and use the boilerplate structure below.
-3. The script will automatically inject into `https://v2.rhythm-plus.com/*`.
-
-```javascript
-// ==UserScript==
-// @name         Rhythm Plus Discord RPC
-// @namespace    [http://tampermonkey.net/](http://tampermonkey.net/)
-// @version      1.0
-// @description  Discord Rich Presence for Rhythm Plus
-// @author       UMR-Chan
-// @match        [https://v2.rhythm-plus.com/](https://v2.rhythm-plus.com/)*
-// @grant        none
-// ==/UserScript==
-
-(function() {
-    'use strict';
-    // Your injection logic goes here
-    console.log("Rhythm Plus RPC loaded via Tampermonkey");
-})();
