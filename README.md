@@ -20,9 +20,9 @@
 
 ### Tampermonkey Userscript
 1. Make sure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed in your browser.
-2. Click the link below to install the script directly:
-   * **[📥 Instalar Rhythm Plus Discord RPC](https://gist.githubusercontent.com/UMR-Chan/7a1ece27135881ac81d9c9f797c6d906/raw/5cf28759ad59fc8adadaaf4ff1af59881a7eb333/Rythm+RCP.js)**
-3. Tampermonkey will open automatically and prompt you to click **Install**.
+2. Open Tampermonkey, go to the **Utilities** tab, and paste the following link into the **"Import from URL"** box:
+   * `https://gist.githubusercontent.com/UMR-Chan/7a1ece27135881ac81d9c9f797c6d906/raw/5cf28759ad59fc8adadaaf4ff1af59881a7eb333/Rythm+RCP.js`
+3. Click **Install** and you are ready to go!
 
 ---
 
