@@ -25,9 +25,9 @@
 ## 🚀 Installation & Usage
 
 ### Browser Extensions (Chrome, Edge, Opera, Firefox)
-1. Download the latest `.zip` release from the [Releases](../../releases) page or install it directly from your browser's store using the badges above.
+1. Download the latest `.exe` and `.zip` (of the browser version you have) release from the [Releases](../../releases) page or install it directly from your browser's store using the badges above.
 2. **Manual Installation (Developer Mode):**
-   * **Chrome / Edge / Opera / Chromium:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file.
+   * **Chrome / Edge / Opera / Chromium:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file Or, for Edge, select the folder containing the extension (it must be unzipped).
    * **Firefox:** Go to `about:debugging#/runtime` and click **Load Temporary Add-on...** by selecting your `manifest.json`.
 
 ---
