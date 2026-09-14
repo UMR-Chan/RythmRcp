@@ -18,14 +18,9 @@
 
 ## 🚀 Installation & Usage
 
-### 1. Local Server Bridge
-Make sure you have the local server bridge running (or open the `.exe` corresponding to your local server bridge setup) so it can communicate with your Discord client via localhost.
-
-### 2. Tampermonkey Userscript
-1. Make sure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed in your browser.
-2. Open Tampermonkey, go to the **Utilities** tab, and paste the following link into the **"Import from URL"** box:
+1. Instala la extensión en Tampermonkey copiando y pegando el siguiente enlace en la pestaña **Utilities** > **"Import from URL"**:
    * `https://gist.githubusercontent.com/UMR-Chan/7a1ece27135881ac81d9c9f797c6d906/raw/5cf28759ad59fc8adadaaf4ff1af59881a7eb333/Rythm+RCP.js`
-3. Click **Install** and you are ready to go!
+2. Abre el `.exe`.
 
 ---
 
