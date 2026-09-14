@@ -20,7 +20,7 @@
 
 1. Install the userscript in Tampermonkey by copying and pasting the following link into the **Utilities** tab > **"Import from URL"** section:
    * `https://gist.githubusercontent.com/UMR-Chan/7a1ece27135881ac81d9c9f797c6d906/raw/5cf28759ad59fc8adadaaf4ff1af59881a7eb333/Rythm+RCP.js`
-2. Open the `.exe`.
+2. Download and open the `.exe` from the [Releases](../../releases) page.
 
 ---
 
