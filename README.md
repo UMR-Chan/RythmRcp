@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/UMR-Chan/RythmRcp/refs/heads/main/Banner.png" alt="Rhythm Plus Discord RPC Banner" width="100%">
 </p>
 
-<h1 align="center">🎵 Rhythm Plus Discord RPC</h1>
+<h1 align="center">Rhythm Plus Discord RPC</h1>
 
 <p align="center">
   A lightweight browser extension and userscript to display your <a href="https://v2.rhythm-plus.com/">Rhythm Plus</a> gameplay status directly on your Discord profile in real-time.
