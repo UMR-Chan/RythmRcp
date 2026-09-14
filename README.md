@@ -5,24 +5,18 @@
 <h1 align="center">Rhythm Plus Discord RPC</h1>
 
 <p align="center">
-  A lightweight browser extension and userscript to display your <a href="https://v2.rhythm-plus.com/">Rhythm Plus</a> gameplay status directly on your Discord profile in real-time.
+  A lightweight browser extension to display your <a href="https://v2.rhythm-plus.com/">Rhythm Plus</a> gameplay status directly on your Discord profile in real-time.
 </p>
 
 <p align="center">
   <a href="https://chromewebstore.google.com/">
     <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension">
   </a>
+  <a href="https://www.google.com/chrome/">
+    <img src="https://img.shields.io/badge/Chromium-Based-34A853?style=for-the-badge&logo=chromium&logoColor=white" alt="Chromium Based">
+  </a>
   <a href="https://addons.mozilla.org/">
     <img src="https://img.shields.io/badge/Firefox-Addon-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Addon">
-  </a>
-  <a href="https://microsoftedge.microsoft.com/addons/">
-    <img src="https://img.shields.io/badge/Edge-Addon-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge Addon">
-  </a>
-  <a href="https://addons.opera.com/">
-    <img src="https://img.shields.io/badge/Opera-Addon-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" alt="Opera Addon">
-  </a>
-  <a href="https://www.tampermonkey.net/">
-    <img src="https://img.shields.io/badge/Tampermonkey-Script-002B36?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Tampermonkey Script">
   </a>
 </p>
 
@@ -37,10 +31,10 @@
 
 ---
 
-##  Installation & Usage
+## 🚀 Installation & Usage
 
 ### Browser Extensions (Chrome, Edge, Opera, Firefox)
 1. Download the latest `.zip` release from the [Releases](../../releases) page or install it directly from your browser's store using the badges above.
 2. **Manual Installation (Developer Mode):**
-   * **Chrome / Edge / Opera:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file.
+   * **Chrome / Edge / Opera / Chromium:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file.
    * **Firefox:** Go to `about:debugging#/runtime` and click **Load Temporary Add-on...** by selecting your `manifest.json`.
