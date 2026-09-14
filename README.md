@@ -34,4 +34,4 @@ Because it was really needed, brother.
 
 ### Is it available as a standard extension?
 
-No, hermano, now it is only available for Tampermonkey.
+No bro, now it is only available for Tampermonkey, I'm broke.
