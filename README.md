@@ -18,9 +18,9 @@
 
 ## 🚀 Installation & Usage
 
-1. Instala la extensión en Tampermonkey copiando y pegando el siguiente enlace en la pestaña **Utilities** > **"Import from URL"**:
+1. Install the userscript in Tampermonkey by copying and pasting the following link into the **Utilities** tab > **"Import from URL"** section:
    * `https://gist.githubusercontent.com/UMR-Chan/7a1ece27135881ac81d9c9f797c6d906/raw/5cf28759ad59fc8adadaaf4ff1af59881a7eb333/Rythm+RCP.js`
-2. Abre el `.exe`.
+2. Open the `.exe`.
 
 ---
 
