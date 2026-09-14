@@ -5,18 +5,12 @@
 <h1 align="center">Rhythm Plus Discord RPC</h1>
 
 <p align="center">
-  A lightweight browser extension to display your <a href="https://v2.rhythm-plus.com/">Rhythm Plus</a> gameplay status directly on your Discord profile in real-time.
+  A lightweight browser userscript to display your <a href="https://v2.rhythm-plus.com/">Rhythm Plus</a> gameplay status directly on your Discord profile in real-time.
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/">
-    <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension">
-  </a>
-  <a href="https://www.google.com/chrome/">
-    <img src="https://img.shields.io/badge/Chromium-Based-34A853?style=for-the-badge&logo=chromium&logoColor=white" alt="Chromium Based">
-  </a>
-  <a href="https://addons.mozilla.org/">
-    <img src="https://img.shields.io/badge/Firefox-Addon-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Addon">
+  <a href="https://www.tampermonkey.net/">
+    <img src="https://img.shields.io/badge/Tampermonkey-Userscript-004E98?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Tampermonkey Userscript">
   </a>
 </p>
 
@@ -24,11 +18,11 @@
 
 ## 🚀 Installation & Usage
 
-### Browser Extensions (Chrome, Edge, Opera, Firefox)
-1. Download the latest `.exe` and `.zip` (of the browser version you have) release from the [Releases](../../releases) page or install it directly from your browser's store using the badges above.
-2. **Manual Installation (Developer Mode):**
-   * **Chrome / Edge / Opera / Chromium:** Go to `chrome://extensions`, enable **Developer mode**, and drag and drop your extension folder or `.zip` file Or, for Edge, select the folder containing the extension (it must be unzipped).
-   * **Firefox:** Go to `about:debugging#/runtime` and click **Load Temporary Add-on...** by selecting your `manifest.json`.
+### Tampermonkey Userscript
+1. Make sure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed in your browser.
+2. Click the link below to install the script directly:
+   * **[📥 Instalar Rhythm Plus Discord RPC](https://gist.githubusercontent.com/UMR-Chan/7a1ece27135881ac81d9c9f797c6d906/raw/5cf28759ad59fc8adadaaf4ff1af59881a7eb333/Rythm+RCP.js)**
+3. Tampermonkey will open automatically and prompt you to click **Install**.
 
 ---
 
@@ -38,6 +32,6 @@
 
 Because it was really needed, brother.
 
-### Why is it only built for V2 right now?
+### Is it available as a standard extension?
 
-because I forgot to add the links for version 1 (I'll update it tomorrow)
+No, hermano, now it is only available for Tampermonkey.
